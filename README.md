@@ -11,3 +11,14 @@ The objective of this project is to use Leaflet to map the earthquakes that occu
 ## **Data Sources:**
 * United States Geological Survey (USGS) API
 * Tectonic Plates GeoJSON: https://github.com/fraxen/tectonicplates
+
+## **Screenshot:**
+
+Options of different Map views and toggle for quakes or plates
+![example1](images/pic1.png)
+
+Satellite map view
+![example2](images/pic2.png)
+
+Close up of California's Earthquakes
+![example3](images/pic3.png)
